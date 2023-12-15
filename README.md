@@ -32,3 +32,23 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+
+### 👨‍💻 About Me :
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- :telescope: I’m currently in my third year of Computer Engineering
+
+- :seedling: As a Software Engineer, I thrive on contributing to both frontend and backend development, crafting robust and innovative web applications.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- 🏅 Beyond the code, I'm a national medalist in track and field, specializing in the thrilling 400m hurdles. 
+
+---
+
+### 🛠️ Languages and Tools :
+
