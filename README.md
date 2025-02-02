@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 ### 👨‍💻 About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m currently in my third year of Computer Engineering
+- :telescope: I’m currently in my fourth year of Computer Engineering
 
 - :seedling: As a Software Engineer, I thrive on contributing to both frontend and backend development, crafting robust and innovative web applications.
 
